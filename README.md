@@ -36,8 +36,8 @@ A modern, responsive Stories feature implementation similar to Instagram and Wha
 
 1. **Clone the repository**
    ```bash
-   git clone <your-repo-url>
-   cd stories-feature
+   git clone https://github.com/AnmolGithubx/24hr-Story.git
+   cd 24hr_Story
    ```
 
 2. **Install dependencies**
