@@ -169,22 +169,6 @@ const EXPIRY_TIME = 24h;     // Story expiration time
 - PNG (.png)
 - WebP (.webp)
 
-## 🚀 Deployment
-
-### Netlify (Recommended)
-1. Build the project: `npm run build`
-2. Deploy the `dist` folder to Netlify
-3. Configure redirects for SPA routing if needed
-
-### Vercel
-1. Connect your GitHub repository
-2. Vercel will automatically detect Vite configuration
-3. Deploy with zero configuration
-
-### GitHub Pages
-1. Install gh-pages: `npm install --save-dev gh-pages`
-2. Add deploy script to package.json
-3. Run: `npm run deploy`
 
 ## 🤝 Contributing
 
@@ -194,9 +178,6 @@ const EXPIRY_TIME = 24h;     // Story expiration time
 4. Push to branch: `git push origin feature/amazing-feature`
 5. Open a Pull Request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
@@ -205,13 +186,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Built with [Vite](https://vitejs.dev/) and [React](https://reactjs.org/)
 - Styled with [Tailwind CSS](https://tailwindcss.com/)
 
-## 📞 Support
-
-If you encounter any issues or have questions:
-1. Check the [Issues](../../issues) page for existing solutions
-2. Create a new issue with detailed description
-3. Include browser version and steps to reproduce
-
 ---
 
-**Made with ❤️ using React, TypeScript, and Tailwind CSS**
+**Made with ❤️ and lots of coffee.**
